@@ -58,7 +58,7 @@ Este proyecto es una herramienta de análisis y visualización de datos para la 
 - **Insurance_Expiry_Date**: Fecha de expiración del seguro (date).
 
 ### **Requisitos**
-- Excel (2007 a vérsiones superiores).
+- Excel (Microsoft Office 2019).
 - Conocimientos básicos de manejo de hojas de cálculo y funciones avanzadas de Excel.
 
 ### **Autor**
